@@ -17,7 +17,8 @@
 [![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)](https://www.linux.org/)
 - 💾 &#160; [![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)](https://www.oracle.com/cn/java/)
 [![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=007396)](https://en.cppreference.com/w/c)
-[![C](https://img.shields.io/badge/-C++-333333?style=flat&logo=c++&logoColor=007396)](https://en.cppreference.com/w/c)
+[![C](https://img.shields.io/badge/-C++-333333?style=flat&logo=c++&logoColor=007396)](https://en.cppreference.com/w)
+[![C](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=007396)](https://www.python.org)
 - 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
@@ -31,22 +32,11 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 ### 开源项目
-- [基于SpringBoot + Shiro + MyBatisPlus的权限管理框架](https://github.com/JoeyBling/bootplus)
-- [一个简洁优雅的hexo主题](https://github.com/JoeyBling/hexo-theme-yilia-plus)
-- [hexo-theme-yilia-plus配置Demo](https://github.com/JoeyBling/yilia-plus-demo)
-- [自动为hexo中的图片映射绝对路径](https://github.com/JoeyBling/hexo-filter-image)
-- [✏️✏️Java软件工程师简历](https://github.com/JoeyBling/cv)
-- [一款简洁优雅的VuePress主题](https://github.com/JoeyBling/vuepress-theme-yilia-plus)
-- [VuePress集成Live2D看板娘](https://github.com/JoeyBling/vuepress-plugin-helper-live2d)
-- [VuePress集成Gitalk](https://github.com/JoeyBling/vuepress-plugin-mygitalk)
-- [不蒜子访问量统计功能](https://github.com/JoeyBling/busuanzi.pure.js)
-- [在`npm install`后提示用户消息或捐赠](https://github.com/JoeyBling/openteam-postinstall)
-
-### 关于我
-- [技术笔记](https://zhousiwei.gitee.io/ibooks/)
-- [CSDN](https://zhousiwei.blog.csdn.net/)
-- [微博](http://weibo.com/jayinfo)
+- [![ElysiumLogin](https://img.shields.io/badge/ElysiumLogin-Github-blue.svg)](https://github.com/Cibocaz/ElysiumLogin)\
+  这是一款面向Web管理的Minecraft-Paper插件，详细信息请查阅 [README.md](https://github.com/Cibocaz/ElysiumLogin/README.md)
+### 联系我
+- [![QQ](https://img.shields.io/badge/QQ-2587093931-blue.svg)]()
+- [![微信](https://img.shields.io/badge/微信-XiangYuanHuLian-blue.svg)]()
+- [![Mail](https://img.shields.io/badge/Mail-XiangYuanHuLian@outlook.com-blue.svg)]()
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
-
-⭐️ From [JoeyBling](https://github.com/JoeyBling)
