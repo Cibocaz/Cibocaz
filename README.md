@@ -3,7 +3,7 @@
 [![Mail Badge](https://img.shields.io/badge/-joeysiwei@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joeysiwei@gmail.com)](mailto:joeysiwei@gmail.com)
 # 这里是西博卡兹
 ---
-[中文](Cibocaz/README.md) | [English]()
+[中文](README.md) | [English]()
 ---
 ### I'm Siwei Zhou
 
