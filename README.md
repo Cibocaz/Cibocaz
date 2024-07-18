@@ -16,7 +16,8 @@
 [![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=Android&logoColor=FCC624)](https://www.android.com/)
 [![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)](https://www.linux.org/)
 - 💾 &#160; [![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)](https://www.oracle.com/cn/java/)
-
+[![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=007396)](https://en.cppreference.com/w/c)
+[![C](https://img.shields.io/badge/-C++-333333?style=flat&logo=c++&logoColor=007396)](https://en.cppreference.com/w/c)
 - 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
