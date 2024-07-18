@@ -33,7 +33,7 @@
 
 ### 开源项目
 - [![ElysiumLogin](https://img.shields.io/badge/ElysiumLogin-Github-blue.svg)](https://github.com/Cibocaz/ElysiumLogin)\
-  这是一款面向Web管理的Minecraft-Paper插件，详细信息请查阅 [README.md](https://github.com/Cibocaz/ElysiumLogin/README.md)
+  这是一款面向Web管理的Minecraft-Paper插件，详细信息请查阅 [README.md](https://github.com/Cibocaz/ElysiumLogin/blob/master/README.md)
 ### 联系我
 - [![QQ](https://img.shields.io/badge/QQ-2587093931-blue.svg)]()
 - [![微信](https://img.shields.io/badge/微信-XiangYuanHuLian-blue.svg)]()
