@@ -1,21 +1,16 @@
-[![博客搭建d交流群](https://img.shields.io/badge/博客搭c建QQ群-422625065-red.svg "博客搭建b交流群")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "博客搭建交流群a")
-[![webkettle交流群](https://img.shields.io/badge/webkettle交流群-487063343-red.svg "webkettle交流群")](https://jq.qq.com/?_wv=1027&k=55kiWBY "webkettle交流群")
-[![Mail Badge](https://img.shields.io/badge/-joeysiwei@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joeysiwei@gmail.com)](mailto:joeysiwei@gmail.com)
 # 这里是西博卡兹
 ---
 
-[中文](README.md) | [English](resource/README_EN.md)
+## [中文](README.md) | [English](resource/README_EN.md)
 
 ---
-### I'm Siwei Zhou
+### 🪪 个人简介
+- 😺 嗨，我是西博卡兹，来自中国开封.
+- 🌱 我是一名Minecraft腐竹，也是Minecraft的忠实爱好者. [![加入我们 极乐世界](https://img.shields.io/badge/加入我们-极乐世界-blue.svg "加入我们 极乐世界")](http://elysium.xyit.online "加入我们 极乐世界")
+- 💬 爱好 Java、C++、Python、Html、UE5 等等
+- ⭐ 如果你也喜欢Minecraft，不妨来看看我的服务器：[ [极乐世界](https://github.com/Cibocaz/Elysium) ] [ [QQ交流群:870666822](https://qm.qq.com/q/jq2Fp2tkQ2) ]
 
-- A Computer Engineering Undergraduate Student. & Open Source enthusiast.
-- 🌱 Currently working in Hangzhou, China.
-- 💬 Ask me about Java, TypeScript and my projects on [2434387555@qq.com](mailto:2434387555@qq.com)
-- ⭐ You may like [webkettle](https://github.com/JoeyBling/webkettle) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus)
-- ⚡ Fun fact: Data Analysis📊
-
-### 🛠 技术栈 | Tech Stack
+### 🛠 技术栈
 
 - 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
